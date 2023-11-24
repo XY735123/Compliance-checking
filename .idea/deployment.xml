@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="xy@10.1.21.161:49736 (4)" remoteFilesAllowedToDisappearOnAutoupload="false" showNewOnSourceInSync="false">
+    <serverData>
+      <paths name="xy@10.1.21.161:49736 (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/xy/env1" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="xy@43.143.69.208:9161">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/xy/project11/" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="xy@43.143.69.208:9161 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/xy/env11" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
